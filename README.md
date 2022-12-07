@@ -13,3 +13,5 @@ My main goal is to broaden my personal knowledge and usage of the Power Fx langu
     Synopsis: Parse out a large flat list of values, separated to indicate where in the list a new "group" starts. For each group do some calculations and determine the highest sum.
 - [Day 2 - Rock Paper Scissors](./Day2/)<br/>
     Synopsis: Give a list of moves, calculate outcomes or calculate moves that would give the desired outcome.
+- [Day 3 - Rucksack Reorganization](./Day3/)<br/>
+    Synopsis: String manipulation. Split string, find common characters.
