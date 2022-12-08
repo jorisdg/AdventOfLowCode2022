@@ -15,3 +15,5 @@ My main goal is to broaden my personal knowledge and usage of the Power Fx langu
     Synopsis: Give a list of moves, calculate outcomes or calculate moves that would give the desired outcome.
 - [Day 3 - Rucksack Reorganization](./Day3/)<br/>
     Synopsis: String manipulation. Split string, find common characters.
+- [Day 4 - Camp Cleanup](./Day4/)<br/>
+    Synopsis: Parse string and compare numbers.
