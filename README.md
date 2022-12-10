@@ -19,3 +19,5 @@ My main goal is to broaden my personal knowledge and usage of the Power Fx langu
     Synopsis: Parse string and compare numbers.
 - [Day 5 - Supply Stacks](./Day5/)<br/>
     Synopsis: Patching strings inside a loop.
+- [Day 6 - Tuning Trouble](./Day6/)<br/>
+    Synopsis: Find index in long string of a set of characters that has no duplicates.
