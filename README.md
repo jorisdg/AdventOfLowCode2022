@@ -17,3 +17,5 @@ My main goal is to broaden my personal knowledge and usage of the Power Fx langu
     Synopsis: String manipulation. Split string, find common characters.
 - [Day 4 - Camp Cleanup](./Day4/)<br/>
     Synopsis: Parse string and compare numbers.
+- [Day 5 - Supply Stacks](./Day5/)<br/>
+    Synopsis: Patching strings inside a loop.
